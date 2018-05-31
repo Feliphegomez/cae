@@ -1,4 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
-<info>
-	<infoitem key="UD_backoffice" value="name:id;datatype:int,name:orden;datatype:int,name:cuenta;datatype:int,name:asignadoa;datatype:string,name:estado;datatype:string,name:ok;datatype:int,name:dato1;datatype:string,name:dato2;datatype:string,name:dato3;datatype:string,name:dato4;datatype:string" />
-</info>
