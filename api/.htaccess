@@ -1,0 +1,7 @@
+RewriteEngine on
+#RewriteCond %{REQUEST_FILENAME} !-f
+#RewriteCond %{REQUEST_FILENAME} !-d
+#RewriteRule ^(.*)/(.*)/(.*)/(.*)/$ api.php?section=$1&section=$2 [NC,L,QSA]
+#RewriteRule ^(.*)/(.*)/$ api.php?section=$1&section=$2 [NC,L,QSA]
+#RewriteRule ^(.*)/$ api.php?section=$1 [NC,L,QSA]
+#RewriteRule ^(|/)$ api.php [NC,L,QSA]
